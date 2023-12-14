@@ -1,0 +1,83 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+html>body{
+    background-color: blueviolet ;
+    background-repeat: no-repeat;
+    background-image:url("https://es.web.img2.acsta.net/pictures/15/06/10/14/56/066800.jpg");
+    background-size: cover;
+   
+}
+
+.manu{
+    background-color: black;
+    color:white;
+    height:20vh;
+    width:20vw;
+    display: inline-block;
+    text-align: center;
+    font-size: xx-large;
+    box-sizing: border-box;
+    padding: 40px;
+}
+.about{
+    background-color: black;
+    color:white;
+    height:20vh;
+    width:20vw;
+    display: inline-block;
+    text-align: center;
+    font-size: xx-large;
+    box-sizing: border-box;
+    padding: 40px;
+}
+
+
+.home{
+    background-color: black;
+    color:white;
+    height:20vh;
+    width:20vw;
+    display: inline-block;
+    text-align: center;
+    font-size: xx-large;
+    box-sizing: border-box;
+    padding: 40px;
+}
+
+.contact{
+    background-color: black;
+    color:white;
+    height:20vh;
+    width:20vw;
+    display: inline-block;
+    text-align: center;
+    font-size: xx-large;
+    box-sizing: border-box;
+    padding: 40px;
+}
+
+.port{
+    background-color: black;
+    color:white;
+    height:20vh;
+    width:20vw;
+    display: inline-block;
+    text-align: center;
+    font-size: xx-large;
+    box-sizing: border-box;
+    padding: 40px;
+}
+.mini{ 
+    height: 100px;
+    width: 300px;
+    position: absolute;
+    right: 45px;
+    background-color: white;
+    border-bottom: right 50px;
+    font-size: 40px;
+}
+
+
+
